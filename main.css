@@ -1,0 +1,53 @@
+.parent{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+.info{
+    font-size: 50px;
+    background-color: rgb(97, 63, 63);
+    padding: 30px 30px;
+    margin: 20px 20px;
+    text-align: center;
+    box-shadow: 10px 10px 5px rgb(54, 46, 46);
+    width: 600px;
+    color: aliceblue;
+    background-position: right;
+    
+    
+}
+ .connect{
+background-color: rgb(247, 231, 13);
+font-size: 40px;
+width: 300px;
+height: auto;
+padding: 10px 20px ;
+margin-left: 40%;
+margin-right: 50%;
+margin-top: 30px;
+margin-bottom: 20px;
+
+ }
+  .next{
+background-color: black;
+height: auto;
+box-shadow: 10px 10px 5px rgb(54, 46, 46);
+position: relative;
+margin-left: 35%;
+padding: 20px 20px;
+}
+
+.list{
+background-color:rgb(44, 16, 206);
+font-size: 30px;
+font-style: italic;
+height: 400px;
+width: 400px;
+padding: 40px 40px;
+margin: 20px 20px;
+
+}
+
+ 
